@@ -2,9 +2,8 @@
 Proyecto realizado con PHP
 
 # Integrantes
-
-*Johan Efrén Morales Obando 
-*Carlos Andrés Díaz Valderrama
+* **Andrés Villanueva** - *Trabajo Inicial* - [villanuevand](https://github.com/villanuevand)
+* **Fulanito Detal** 
   
 # taskcode
 Developments programs by class
